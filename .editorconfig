@@ -2,4 +2,4 @@ root = true
 
 [*] # para todos os arquivos
 indent_style = space # estilo da indentação
-indent_size = 2 # espaço da indentação
+indent_size = 4 # espaço da indentação
